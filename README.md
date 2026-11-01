@@ -34,7 +34,20 @@ I built and deployed the website, including the user interface, product browsing
 
 ## Screenshots
 
-Screenshots of the homepage, product browsing, product details, and checkout will be added here.
+### Homepage
+![Golden Ideas homepage](homepage.png)
+
+### Product Categories
+![Product categories](categories.png)
+
+### Product Catalog
+![Product catalog with pricing and stock availability](product-catalog.png)
+
+### Product Details
+![Product details with color selection and cart controls](product-details.png)
+
+### Shopping Cart
+![Shopping cart with quantity controls and subtotal](cart.png)
 
 ## Source Code
 
